@@ -1,4 +1,4 @@
-//var age: Int = 18
+package example//var age: Int = 18
 //    set(value) {
 //        if ((value > 0) and (value < 110))
 //            field = value
@@ -24,7 +24,7 @@ fun main() {
     val maksim: Person = Person("Maksim",1000)
     denis.hello()
     maksim.hello()
-//    val pavel: Human = Human("Pavel")
+//    val pavel: example.Human = example.Human("Pavel")
 //    println(age)
 //    age = 45
 //    println(age)

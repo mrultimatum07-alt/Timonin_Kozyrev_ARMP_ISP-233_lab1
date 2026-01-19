@@ -1,3 +1,5 @@
+package modules
+
 class ResearchLab : OutpostModule(
     "Исследовательская лаборатория"
 ) {
@@ -11,4 +13,3 @@ class ResearchLab : OutpostModule(
         println("Лаборатория проводит исследование(минералы -30)")
     }
 }
-
